@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @jasmine
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am a Front End Developer who love React!
+-  🌍  I'm based in Florida
+- ✉️  You can contact me at jasmine.hb1996@gmail.com
 
-<!---
-jasmine1909/jasmine1909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
